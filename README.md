@@ -1,144 +1,26 @@
-🚀 Raj
-Building AI Systems & Software Solutions That Solve Real Problems
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+ML+Enthusiast;Data-Driven+Problem+Solver;Full-Stack+Developer+(MERN);Turning+Ideas+into+Intelligent+Systems" /> </p>
-🧠 About Me
+<h1 align="center">Hi 👋, I'm Raj Kadakia</h1>
+<h3 align="center">Engineering student focused on Machine Learning, LLM systems, and production-ready software solutions.</h3>
 
-Engineering student focused on Machine Learning, LLM systems, and production-ready software solutions.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkadakia&label=Profile%20views&color=0e75b6&style=flat" alt="rajkadakia" /> </p>
 
-I build intelligent systems that go beyond notebooks —
-from LLM-powered detection systems to full-stack applications deployed end-to-end.
+- 🔭 I’m currently working at [Indexnine Technologies](https://indexnine.com/)
 
-🔬 Strong in Python, ML, PyTorch & LLM pipelines
+- 🌱 I’m currently learning **MERN stack , LLM fine tuning**
 
-🏗️ Build full-stack apps with MERN
+- 👨‍💻 All of my projects are available at [https://github.com/rajkadakia](https://github.com/rajkadakia)
 
-📊 Data-driven mindset with real-world implementation focus
+- 💬 Ask me about **AI tech , ideations**
 
-🚀 Interested in AI systems, applied ML, and scalable software
+- 📫 How to reach me **rajkadakia7@gmail.com**
 
-🏢 Experience
-🏢 AI/ML Training Engineer Intern — HPE
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.topcoder.com/members/400056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="400056" height="30" width="40" /></a>
+</p>
 
-Worked on applied AI/ML systems and model training pipelines, focusing on real-world deployment workflows and engineering best practices.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-🏢 Industry-Driven MERN & GenAI Program — Bridgelabz
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkadakia&show_icons=true&locale=en&layout=compact" alt="rajkadakia" /></p>
 
-3-month intensive hands-on training building:
-
-Full-stack applications
-
-LLM-integrated systems
-
-Production-style software architectures
-
-🛠 Tech Stack
-🧠 AI / ML
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,pytorch" /> </p>
-
-PyTorch
-
-Pandas / NumPy
-
-NLP & LLM systems
-
-Retrieval-Augmented Generation (RAG)
-
-Streamlit
-
-IndicBERT Fine-tuning
-
-Vector Databases
-
-🌐 Full Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,javascript" /> </p>
-⚙️ Dev & Infra
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,docker,linux" /> </p>
-
-APIs & backend integration
-
-Networking fundamentals
-
-SQL (Intermediate)
-
-🔥 Featured Projects
-🧠 LLM-Powered Twitter Sentiment Analyzer (IndicBERT Fine-Tuned)
-
-A production-style sentiment classification system for tweets using a fine-tuned IndicBERT model.
-
-Tech: Python, PyTorch, HuggingFace, NLP
-Highlights:
-
-Fine-tuned transformer model
-
-Real-time inference pipeline
-
-Sentiment classification (Positive/Negative/Neutral)
-
-Deployment-ready structure
-
-🛡 LLM-Powered Network Anomaly Detection System
-
-Intelligent anomaly detection on structured logs using LLM-assisted classification and rule-enhanced detection.
-
-Tech: Python, NLP, Log Analysis, Vector DB
-Highlights:
-
-Log ingestion pipeline
-
-Feature extraction
-
-LLM-based anomaly reasoning
-
-Human-readable alert generation
-
-🤖 RAG Pipeline — IT Support Chatbot
-
-Retrieval-Augmented Generation system for internal IT query resolution.
-
-Tech: LLMs, Vector DB, Python
-Highlights:
-
-Document embedding pipeline
-
-Context-aware response generation
-
-Modular architecture
-
-📚 Operational Bookstore App (Full Stack)
-
-End-to-end MERN application simulating real operational workflows.
-
-Tech: React, Node.js, Express, MongoDB
-Highlights:
-
-REST APIs
-
-Authentication
-
-Inventory & order flow
-
-Clean UI + backend integration
-
-📝 Google Keep Clone
-
-Full-stack note-taking application with CRUD functionality and structured backend logic.
-
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/> </p>
-🎯 Current Focus
-
-Scaling LLM-powered systems
-
-Improving system design & ML deployment
-
-Strengthening SQL & data engineering fundamentals
-
-Building AI systems that integrate cleanly with full-stack architectures
-
-📫 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a> </p>
-💡 Philosophy
-
-Build systems that are useful.
-Optimize for clarity.
-Engineer with intent.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkadakia&" alt="rajkadakia" /></p>
